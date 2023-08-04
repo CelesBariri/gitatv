@@ -1,0 +1,40 @@
+body { background-color: lightslategray;
+
+}
+article {background-color: white;
+
+}
+main {text-align: center;
+
+}
+main { color: black;
+    width: 1000px;
+    margin: 0 auto;
+}
+.sobre-mim {
+    background-color: white;
+    padding: 10px 60px;
+    border-radius: 20px;
+}
+.detalhes {
+    display: block;
+    margin-top: 8px;
+    border-radius: 15px;
+    margin: 30px;
+    padding: 15px;
+}
+figure {
+width: 300px;
+height: 300px;
+border-radius: 50%;
+overflow: hidden;
+margin: 0 auto
+}
+img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.desenvolver {
+    font-size: 25px;
+}
